@@ -1,5 +1,5 @@
 # encoding=utf8
-# Author @Wrench
+# Author @0DedSec0
 #Changing the code not make you the author
 import requests, json, os, re, sys, mechanize, urllib
 reload(sys)
